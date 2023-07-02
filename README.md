@@ -1,5 +1,4 @@
-# Valeria_SS
-Honors Thesis Ratfish Code
+# Honors Thesis Ratfish Code
 #Revised May 03, 2023 VSS
 
 #Load relevant packages
